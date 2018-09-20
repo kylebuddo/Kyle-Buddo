@@ -207,7 +207,7 @@ body {
                 cursor: hand; }
             body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder #bowie-sub {
               position: absolute;
-              bottom: 5;
+              bottom: 5px;
               width: 94%;
               left: 8%;
               z-index: 9;
@@ -273,7 +273,7 @@ body {
                 cursor: hand; }
             body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder #freight-sub {
               position: absolute;
-              bottom: 5;
+              bottom: 5px;
               width: 94%;
               left: 8%;
               z-index: 9;
