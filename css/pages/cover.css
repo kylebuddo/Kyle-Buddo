@@ -1,0 +1,407 @@
+html {
+  display: block; }
+
+body {
+  background-color: white;
+  margin: 0;
+  padding: 0;
+  font-family: georgia; }
+  body .hold-all {
+    max-width: 1366px;
+    width: 100%;
+    background-color: white; }
+    body .hold-all .cover-holder {
+      height: 100vh;
+      max-height: 768px;
+      background-color: white;
+      margin: auto;
+      width: 70%;
+      display: flex;
+      align-items: center; }
+      body .hold-all .cover-holder .the-meat {
+        height: 75%;
+        width: 100%; }
+        body .hold-all .cover-holder .the-meat .sri-lanka {
+          background-image: url("../imgs/cover-imgs/sky_reg.jpg");
+          background-size: cover;
+          background-position: center;
+          height: 100%;
+          position: relative; }
+          body .hold-all .cover-holder .the-meat .sri-lanka #movers-container {
+            height: 100%;
+            width: 100%;
+            position: relative;
+            overflow: hidden; }
+            body .hold-all .cover-holder .the-meat .sri-lanka #movers-container:hover > #palms {
+              bottom: -7px;
+              top: -7px;
+              right: -7px;
+              left: -7px; }
+            body .hold-all .cover-holder .the-meat .sri-lanka #movers-container #cloud {
+              height: 100%;
+              width: 100%;
+              position: absolute;
+              background-image: url("../imgs/cover-imgs/cloud_reg.png");
+              background-size: cover;
+              background-position: center; }
+            body .hold-all .cover-holder .the-meat .sri-lanka #movers-container #palms {
+              position: absolute;
+              bottom: 0px;
+              top: 0px;
+              right: 0px;
+              left: 0px;
+              background-image: url("../imgs/cover-imgs/trees_reg.png");
+              background-size: cover;
+              background-position: center;
+              background-repeat: no-repeat;
+              transition: all 0.5s ease-out; }
+          body .hold-all .cover-holder .the-meat .sri-lanka nav {
+            width: 100%;
+            position: absolute;
+            top: 0;
+            font-style: italic; }
+            body .hold-all .cover-holder .the-meat .sri-lanka nav .links {
+              float: left;
+              margin-top: -24px;
+              font-size: 14pt;
+              color: black; }
+              body .hold-all .cover-holder .the-meat .sri-lanka nav .links a {
+                color: black;
+                text-decoration: none; }
+            body .hold-all .cover-holder .the-meat .sri-lanka nav .header {
+              float: right;
+              width: 423px; }
+              body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo {
+                position: relative;
+                top: -27px;
+                height: 54px;
+                width: 423px; }
+                body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo:hover > #name-top {
+                  -moz-transform: translatex(5px);
+                  -ms-transform: translatex(5px);
+                  -o-transform: translatex(5px);
+                  -webkit-transform: translatex(5px);
+                  transform: translatex(5px); }
+                body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo #name-top {
+                  width: 423px;
+                  height: auto;
+                  margin-left: -10px;
+                  transition: all 0.5s ease-out;
+                  position: absolute;
+                  right: 5px; }
+                  body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo #name-top img {
+                    width: 423px; }
+                body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo #name-bottom {
+                  width: 423px;
+                  margin-left: -5px;
+                  height: auto;
+                  position: absolute;
+                  top: 27px;
+                  right: 0px; }
+                  body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo #name-bottom img {
+                    width: 423px; }
+              body .hold-all .cover-holder .the-meat .sri-lanka nav .header .tagline img {
+                max-width: 50%;
+                height: auto;
+                float: right;
+                margin-right: 15px;
+                margin-top: 60px; }
+    body .hold-all .to-about {
+      width: 70%;
+      position: absolute;
+      bottom: 30px;
+      display: flex;
+      justify-content: center; }
+      body .hold-all .to-about a img {
+        height: 22px;
+        width: 22px; }
+    body .hold-all .hire-port-holder {
+      height: 100vh;
+      width: 100%;
+      display: flex;
+      position: relative; }
+      body .hold-all .hire-port-holder .hire-me-box {
+        height: 100%;
+        width: 50%;
+        background-image: url("../imgs/gallery-imgs/hire-me-cover.png");
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        justify-content: center;
+        align-items: center; }
+        body .hold-all .hire-port-holder .hire-me-box .the-words {
+          height: 75%;
+          max-height: 768px;
+          width: 80%;
+          position: relative;
+          top: 150px;
+          transform: translateY(0px); }
+          body .hold-all .hire-port-holder .hire-me-box .the-words h1 {
+            color: white;
+            padding: 0px;
+            margin: 0px;
+            line-height: 95%;
+            font-size: 100px;
+            font-family: helvetica;
+            margin-bottom: 60px;
+            margin-top: -8px; }
+          body .hold-all .hire-port-holder .hire-me-box .the-words p {
+            color: white;
+            font-size: 18px;
+            font-family: georgia;
+            font-style: italic;
+            line-height: 130%;
+            padding-right: 20px; }
+      body .hold-all .hire-port-holder .porto-box {
+        height: 100%;
+        width: 50%;
+        background-color: #ebebeb;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative; }
+        body .hold-all .hire-port-holder .porto-box .the-gallery {
+          height: 75%;
+          max-height: 768px;
+          width: 80%;
+          display: flex;
+          flex-direction: column;
+          justify-content: space-between; }
+          body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder {
+            width: 100%;
+            height: 48%;
+            position: relative;
+            overflow: hidden; }
+            body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder:hover {
+              cursor: hand; }
+            body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder:hover > a > #bowie {
+              -moz-transform: translatex(40px);
+              -ms-transform: translatex(40px);
+              -o-transform: translatex(40px);
+              -webkit-transform: translatex(40px);
+              transform: translatex(40px); }
+            body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder:hover > #bowie-sub {
+              left: 25%; }
+            body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder:hover > #bowie-links {
+              right: -25px; }
+            body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder .bowie-txt {
+              background-image: url("../imgs/gallery-imgs/bowie-txt.png");
+              background-size: contain;
+              background-repeat: no-repeat;
+              z-index: 1;
+              position: absolute;
+              height: 100%; }
+              body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder .bowie-txt img {
+                height: 100%; }
+            body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder a #bowie {
+              width: 94%;
+              height: 90%;
+              position: absolute;
+              right: 0px;
+              background-image: url("../imgs/gallery-imgs/bowie.png");
+              background-size: cover;
+              background-repeat: no-repeat;
+              z-index: 10;
+              transition: all 0.5s ease-out; }
+              body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder a #bowie:hover {
+                cursor: hand; }
+            body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder #bowie-sub {
+              position: absolute;
+              bottom: 5;
+              width: 94%;
+              left: 8%;
+              z-index: 9;
+              font-family: helvetica;
+              font-size: 11px;
+              font-weight: bold;
+              letter-spacing: 0.5px;
+              transition: all 0.7s ease-out; }
+              body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder #bowie-sub:hover {
+                cursor: hand; }
+            body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder #bowie-links {
+              height: 50px;
+              width: 150px;
+              position: absolute;
+              bottom: calc(10% + 5px);
+              right: -150px;
+              z-index: 11;
+              transition: all 0.5s ease-out;
+              display: flex; }
+              body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder #bowie-links:hover {
+                cursor: hand; }
+              body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder #bowie-links img {
+                width: 50px;
+                height: 50px;
+                margin-right: 15px; }
+          body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder {
+            width: 100%;
+            height: 48%;
+            position: relative;
+            overflow: hidden; }
+            body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder:hover {
+              cursor: hand; }
+            body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder:hover > a > #freight {
+              -moz-transform: translatex(60px);
+              -ms-transform: translatex(60px);
+              -o-transform: translatex(60px);
+              -webkit-transform: translatex(60px);
+              transform: translatex(60px); }
+            body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder:hover > #freight-sub {
+              left: 35%; }
+            body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder:hover > #freight-links {
+              right: -25px; }
+            body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder .freight-txt {
+              background-image: url("../imgs/gallery-imgs/freight-txt.png");
+              background-size: contain;
+              background-repeat: no-repeat;
+              z-index: 1;
+              position: absolute;
+              height: 100%; }
+              body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder .freight-txt img {
+                height: 100%; }
+            body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder a #freight {
+              width: 94%;
+              height: 90%;
+              position: absolute;
+              right: 0px;
+              background-image: url("../imgs/gallery-imgs/freight.png");
+              background-size: cover;
+              background-repeat: no-repeat;
+              z-index: 10;
+              transition: all 0.5s ease-out; }
+              body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder a #freight:hover {
+                cursor: hand; }
+            body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder #freight-sub {
+              position: absolute;
+              bottom: 5;
+              width: 94%;
+              left: 8%;
+              z-index: 9;
+              font-family: helvetica;
+              font-size: 11px;
+              font-weight: bold;
+              letter-spacing: 0.5px;
+              transition: all 0.7s ease-out; }
+              body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder #freight-sub:hover {
+                cursor: hand; }
+            body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder #freight-links {
+              height: 50px;
+              width: 150px;
+              position: absolute;
+              bottom: calc(10% + 5px);
+              right: -150px;
+              z-index: 11;
+              transition: all 0.5s ease-out;
+              display: flex; }
+              body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder #freight-links:hover {
+                cursor: hand; }
+              body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder #freight-links img {
+                width: 50px;
+                height: 50px;
+                margin-right: 15px; }
+      body .hold-all .hire-port-holder .to-lanka {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        position: absolute;
+        margin-top: 30px;
+        z-index: 16; }
+        body .hold-all .hire-port-holder .to-lanka a img {
+          height: 22px;
+          width: 22px; }
+      body .hold-all .hire-port-holder .to-me {
+        width: 100%;
+        position: absolute;
+        bottom: 0px;
+        left: -50%;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 30px; }
+        body .hold-all .hire-port-holder .to-me a img {
+          height: 22px;
+          width: 22px; }
+    body .hold-all .contact-holder {
+      height: 280px;
+      width: 100%;
+      display: flex;
+      position: relative; }
+      body .hold-all .contact-holder .contact-me {
+        width: 50%;
+        background-color: #ffffff; }
+        body .hold-all .contact-holder .contact-me .contact-center {
+          margin: auto;
+          width: 75%;
+          padding: 0px;
+          position: relative;
+          margin-top: 40px; }
+          body .hold-all .contact-holder .contact-me .contact-center h1 {
+            font-family: georgia;
+            font-weight: bold;
+            font-style: italic;
+            font-size: 38px;
+            margin: 0px;
+            margin-bottom: 20px;
+            margin-right: 20px; }
+          body .hold-all .contact-holder .contact-me .contact-center p {
+            font-family: helvetica;
+            font-weight: 100;
+            font-style: normal;
+            font-size: 24px;
+            letter-spacing: 1px;
+            margin: 0px;
+            margin-right: 20px;
+            margin-top: 15px; }
+            body .hold-all .contact-holder .contact-me .contact-center p:last-child {
+              margin-top: 15px; }
+          body .hold-all .contact-holder .contact-me .contact-center img {
+            width: 28px;
+            height: 28px;
+            position: relative;
+            bottom: -6px;
+            display: inline-block;
+            margin-right: 15px; }
+          body .hold-all .contact-holder .contact-me .contact-center .social {
+            margin: auto;
+            margin-top: 20px; }
+            body .hold-all .contact-holder .contact-me .contact-center .social img {
+              width: 40px;
+              height: 40px;
+              margin-right: 15px; }
+      body .hold-all .contact-holder .reasons-holder {
+        width: 50%;
+        background-image: url("../imgs/contact-imgs/tree-trunk.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        position: relative; }
+        body .hold-all .contact-holder .reasons-holder .reasons {
+          width: 75%;
+          color: white;
+          margin: auto;
+          margin-top: 30px; }
+          body .hold-all .contact-holder .reasons-holder .reasons h1 {
+            font-family: helvetica;
+            font-weight: bold;
+            font-size: 20px; }
+          body .hold-all .contact-holder .reasons-holder .reasons p {
+            font-family: georgia;
+            font-weight: 100;
+            font-size: 18px;
+            font-style: italic;
+            margin-right: 30px;
+            line-height: 28px;
+            width: 90%; }
+            body .hold-all .contact-holder .reasons-holder .reasons p img {
+              width: 15px;
+              height: 15px;
+              margin-right: 10px; }
+      body .hold-all .contact-holder .up-me {
+        width: 100%;
+        position: absolute;
+        top: 30px;
+        display: flex;
+        justify-content: center; }
+        body .hold-all .contact-holder .up-me a img {
+          height: 22px;
+          width: 22px; }
+
+/*# sourceMappingURL=cover.css.map */

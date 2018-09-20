@@ -1,0 +1,272 @@
+@media screen and (max-width: 1200px) {
+  body .hold-all .hire-port-holder .hire-me-box .the-words h1 {
+    font-size: 90px; }
+  body .hold-all .hire-port-holder .hire-me-box .the-words p {
+    font-size: 17px; } }
+@media screen and (max-width: 1075px) {
+  body .hold-all .hire-port-holder .hire-me-box .the-words h1 {
+    font-size: 75px; }
+  body .hold-all .hire-port-holder .hire-me-box .the-words p {
+    font-size: 16px; }
+  body .hold-all .contact-holder .reasons-holder .reasons {
+    width: 80%; }
+    body .hold-all .contact-holder .reasons-holder .reasons p {
+      font-size: 14px;
+      font-family: helvetica;
+      font-style: normal;
+      font-weight: bold; }
+    body .hold-all .contact-holder .reasons-holder .reasons img {
+      width: 12px;
+      height: 12px; } }
+@media screen and (max-width: 915px) {
+  body .hold-all .hire-port-holder .hire-me-box .the-words h1 {
+    font-size: 65px;
+    margin-bottom: 40px; }
+  body .hold-all .hire-port-holder .hire-me-box .the-words p {
+    font-size: 14px; }
+  body .hold-all .cover-holder .the-meat .sri-lanka nav .header {
+    width: 353px; }
+    body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo {
+      width: 353px; }
+      body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo #name-top {
+        width: 353px;
+        height: auto;
+        margin-left: -10px;
+        transition: all 0.5s ease-out;
+        position: absolute;
+        right: 5px;
+        top: 5px; }
+        body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo #name-top img {
+          width: 353px; }
+      body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo #name-bottom {
+        width: 353px;
+        margin-left: -5px;
+        height: auto;
+        position: absolute;
+        top: 27px;
+        right: 0px; }
+        body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo #name-bottom img {
+          width: 353px; }
+  body .hold-all .contact-holder .contact-me .contact-center p {
+    font-size: 20px; }
+  body .hold-all .contact-holder .reasons-holder .reasons {
+    width: 80%; }
+    body .hold-all .contact-holder .reasons-holder .reasons p {
+      font-size: 13px;
+      font-family: helvetica;
+      font-style: normal;
+      font-weight: bold; }
+    body .hold-all .contact-holder .reasons-holder .reasons img {
+      width: 12px;
+      height: 12px; } }
+@media screen and (max-width: 815px) {
+  body .hold-all .hire-port-holder .hire-me-box .the-words h1 {
+    font-size: 65px;
+    margin-bottom: 40px; }
+  body .hold-all .hire-port-holder .hire-me-box .the-words p {
+    font-size: 14px; }
+  body .hold-all .cover-holder .the-meat .sri-lanka nav .header {
+    width: 250px; }
+    body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo {
+      width: 250px; }
+      body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo #name-top {
+        width: 250px;
+        height: auto;
+        margin-left: -10px;
+        transition: all 0.5s ease-out;
+        position: absolute;
+        right: 5px;
+        top: 12px; }
+        body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo #name-top img {
+          width: 250px; }
+      body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo #name-bottom {
+        width: 250px;
+        margin-left: -5px;
+        height: auto;
+        position: absolute;
+        top: 27px;
+        right: 0px; }
+        body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo #name-bottom img {
+          width: 250px; }
+      body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo .tagline img {
+        max-width: 50%;
+        height: auto;
+        float: right;
+        margin-right: 15px;
+        margin-top: 50px; }
+  body .hold-all .contact-holder .contact-me .contact-center p {
+    font-size: 16px; }
+  body .hold-all .contact-holder .reasons-holder .reasons {
+    width: 80%; }
+    body .hold-all .contact-holder .reasons-holder .reasons p {
+      font-size: 12px;
+      font-family: helvetica;
+      font-style: normal;
+      font-weight: bold; }
+    body .hold-all .contact-holder .reasons-holder .reasons img {
+      width: 12px;
+      height: 12px; } }
+@media screen and (max-width: 780px) {
+  body .hold-all .hire-port-holder .hire-me-box .the-words h1 {
+    font-size: 65px;
+    margin-bottom: 40px; }
+  body .hold-all .hire-port-holder .hire-me-box .the-words p {
+    font-size: 14px; }
+  body .hold-all .cover-holder {
+    width: 100%; }
+    body .hold-all .cover-holder .the-meat {
+      height: 75%; }
+      body .hold-all .cover-holder .the-meat .sri-lanka nav .links {
+        display: none; }
+      body .hold-all .cover-holder .the-meat .sri-lanka nav .header {
+        width: 250px; }
+        body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo {
+          width: 250px; }
+          body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo #name-top {
+            width: 250px;
+            height: auto;
+            margin-left: -10px;
+            transition: all 0.5s ease-out;
+            position: absolute;
+            right: 5px;
+            top: 12px; }
+            body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo #name-top img {
+              width: 250px; }
+          body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo #name-bottom {
+            width: 250px;
+            margin-left: -5px;
+            height: auto;
+            position: absolute;
+            top: 27px;
+            right: 0px; }
+            body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo #name-bottom img {
+              width: 250px; }
+          body .hold-all .cover-holder .the-meat .sri-lanka nav .header .kylebuddo .tagline img {
+            max-width: 70%;
+            height: auto;
+            float: right;
+            margin-right: 15px;
+            margin-top: 50px; }
+  body .hold-all .to-about {
+    width: 100%; }
+  body .hold-all .hire-port-holder {
+    height: 200vh;
+    width: 100%;
+    display: block; }
+    body .hold-all .hire-port-holder .hire-me-box {
+      height: 100vh;
+      width: 100%;
+      background-image: url("../imgs/gallery-imgs/hire-me-cover.png");
+      background-size: cover;
+      background-position: center bottom; }
+      body .hold-all .hire-port-holder .hire-me-box .the-words {
+        height: 80%;
+        max-height: 768px;
+        width: 80%;
+        position: relative;
+        top: 150px;
+        transform: translateY(0px); }
+        body .hold-all .hire-port-holder .hire-me-box .the-words h1 {
+          color: white;
+          padding: 0px;
+          margin: 0px;
+          line-height: 95%;
+          font-size: 60px;
+          font-family: helvetica;
+          margin-bottom: 30px;
+          margin-top: -8px;
+          text-align: center; }
+        body .hold-all .hire-port-holder .hire-me-box .the-words p {
+          color: white;
+          font-size: 18px;
+          font-family: georgia;
+          font-style: italic;
+          line-height: 130%;
+          padding-right: 20px;
+          text-align: center; }
+    body .hold-all .hire-port-holder .to-lanka {
+      display: none; }
+    body .hold-all .hire-port-holder .to-me {
+      display: none; }
+    body .hold-all .hire-port-holder .porto-box {
+      height: 100vh;
+      width: 100%;
+      background-color: #ebebeb;
+      position: relative; }
+      body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder:hover > a > #bowie {
+        -moz-transform: translatex(0px);
+        -ms-transform: translatex(0px);
+        -o-transform: translatex(0px);
+        -webkit-transform: translatex(0px);
+        transform: translatex(0px); }
+      body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder:hover > #bowie-sub {
+        left: 15%; }
+      body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder:hover > #bowie-links {
+        right: -25px; }
+      body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder a #bowie {
+        transition: none; }
+      body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder #bowie-sub {
+        transition: none;
+        left: 15%; }
+      body .hold-all .hire-port-holder .porto-box .the-gallery .bowie-holder #bowie-links {
+        position: absolute;
+        right: -25px;
+        transition: none; }
+      body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder:hover > a > #freight {
+        -moz-transform: translatex(0px);
+        -ms-transform: translatex(0px);
+        -o-transform: translatex(0px);
+        -webkit-transform: translatex(0px);
+        transform: translatex(0px); }
+      body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder:hover > #freight-sub {
+        left: 15%; }
+      body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder:hover > #freight-links {
+        right: -25px; }
+      body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder a #freight {
+        transition: none; }
+      body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder #freight-sub {
+        transition: none;
+        left: 15%; }
+      body .hold-all .hire-port-holder .porto-box .the-gallery .boxfreight-holder #freight-links {
+        position: absolute;
+        right: -25px;
+        transition: none; }
+  body .hold-all .contact-holder {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    position: relative; }
+    body .hold-all .contact-holder .contact-me {
+      width: 100%;
+      position: relative;
+      top: 0px;
+      order: 2; }
+      body .hold-all .contact-holder .contact-me .contact-center {
+        margin-bottom: 40px;
+        text-align: center; }
+        body .hold-all .contact-holder .contact-me .contact-center p {
+          font-size: 16px; }
+        body .hold-all .contact-holder .contact-me .contact-center .social {
+          margin-top: 40px; }
+    body .hold-all .contact-holder .reasons-holder {
+      width: 100%;
+      position: relative;
+      top: 0px;
+      order: 1; }
+      body .hold-all .contact-holder .reasons-holder .reasons {
+        width: 80%;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        text-align: center; }
+        body .hold-all .contact-holder .reasons-holder .reasons p {
+          font-size: 14px;
+          font-family: helvetica;
+          font-weight: 400;
+          line-height: 3; }
+        body .hold-all .contact-holder .reasons-holder .reasons img {
+          width: 12px;
+          height: 12px; }
+    body .hold-all .contact-holder .up-me {
+      display: none; } }
+
+/*# sourceMappingURL=queries.css.map */
